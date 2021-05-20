@@ -5,6 +5,7 @@ You just only have to copy everything from lootlog window and paste it on pasteb
 and then paste link to Discord with running bot,
 or u can run project from windows without using discord
 
+![DiscordBot](https://user-images.githubusercontent.com/54996433/119030617-6c733300-b9aa-11eb-99e4-93c5fc5a886a.png)
 
 
 Created By Wariat
